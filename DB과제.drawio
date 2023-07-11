@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-11T05:53:08.921Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="zWJwa9XvyXgz2BnYu4u5" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-11T06:00:02.960Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="s929TUyvvgJ8dT7lPzib" version="21.6.1" type="github">
   <diagram name="페이지-1" id="2GDwoDGK6cftdf2g5as5">
     <mxGraphModel dx="1050" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -168,19 +168,16 @@
             <mxPoint x="490" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EwdzPalowD2Moo5H6lmW-44" value="ot_team" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="520" y="400" width="100" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="EwdzPalowD2Moo5H6lmW-45" value="ot_room" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="670" y="400" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EwdzPalowD2Moo5H6lmW-46" value="award" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="700" y="310" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EwdzPalowD2Moo5H6lmW-47" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EwdzPalowD2Moo5H6lmW-5" target="EwdzPalowD2Moo5H6lmW-44">
+        <mxCell id="EwdzPalowD2Moo5H6lmW-47" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EwdzPalowD2Moo5H6lmW-5" target="EwdzPalowD2Moo5H6lmW-54">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="330" y="290" as="sourcePoint" />
-            <mxPoint x="490" y="290" as="targetPoint" />
+            <mxPoint x="570" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EwdzPalowD2Moo5H6lmW-48" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EwdzPalowD2Moo5H6lmW-5" target="EwdzPalowD2Moo5H6lmW-45">
@@ -216,6 +213,9 @@
           <mxGeometry x="1" relative="1" as="geometry">
             <mxPoint x="10" y="25" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="EwdzPalowD2Moo5H6lmW-54" value="ot_team" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="500" y="390" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
