@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-12T15:23:29.587Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="fJ0VCAZWQzrJTXogrKNh" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-12T15:36:22.831Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="bdrFZZFe7qeKaGJythWv" version="21.6.1" type="github">
   <diagram name="페이지-1" id="EzvtfQBdy-hiVALPavz4">
     <mxGraphModel dx="895" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="PYD6FqWmEahpJ3s4jbQP-3" value="Subject" style="whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;fillColor=#FFFF00;" vertex="1" parent="1">
           <mxGeometry x="568" y="457" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="PYD6FqWmEahpJ3s4jbQP-4" value="Attendence" style="whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;fillColor=#FFFF00;" vertex="1" parent="1">
+        <mxCell id="PYD6FqWmEahpJ3s4jbQP-4" value="Attendance" style="whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;fillColor=#FFFF00;" vertex="1" parent="1">
           <mxGeometry x="138" y="687" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PYD6FqWmEahpJ3s4jbQP-5" value="exam" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=#FF6666;" vertex="1" parent="1">
@@ -229,7 +229,7 @@
         <mxCell id="PYD6FqWmEahpJ3s4jbQP-56" value="absence" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;labelBackgroundColor=none;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="310" y="1470" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PYD6FqWmEahpJ3s4jbQP-59" value="Attendence" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;fontStyle=1;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="PYD6FqWmEahpJ3s4jbQP-59" value="Attendance" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;fontStyle=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="70" y="1420" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PYD6FqWmEahpJ3s4jbQP-60" value="subject_code" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=5;labelBackgroundColor=none;strokeWidth=3;" vertex="1" parent="1">
